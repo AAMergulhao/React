@@ -13,7 +13,7 @@
 
  ## React with Redux
 
- The previous projects presented on this repository use only pure React, ***the projects below make use of the [Redux library](https://redux.js.org/) in synergy with react:***
+ The previous projects presented on this repository use only pure React, **the projects below make use of the [Redux library](https://redux.js.org/) in synergy with react:**
  1. [Blog Post Aplication](https://github.com/AAMergulhao/React/tree/master/blogp)
 
  
