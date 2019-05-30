@@ -2,7 +2,7 @@
  
  The purpose of the projects on this repository are get to know how React and Redux works.
 
- All those projects were generate with [Create-React-App](https://github.com/facebook/create-react-app) use [Semantin UI](https://semantic-ui.com/) for stylization.
+ All those projects were generate with [Create-React-App](https://github.com/facebook/create-react-app), and use [Semantin UI](https://semantic-ui.com/) for stylization.
  
  ## Pure React
  ##### The projects below were writen just with react:
@@ -14,6 +14,6 @@
  ## React with Redux
 
  The previous projects presented on this repository use only pure React, ***the projects below make use of the [Redux library](https://redux.js.org/) in synergy with react:***
- 1. [BlogPost Aplication](https://github.com/AAMergulhao/React/tree/master/blogp)
+ 1. [Blog Post Aplication](https://github.com/AAMergulhao/React/tree/master/blogp)
 
  
