@@ -1,13 +1,5 @@
- ## OVERVIEW
- 
- The purpose of the projects on this repository are get to know how React and Redux works.
+ ## Description
 
- All those projects were generate with [Create-React-App](https://github.com/facebook/create-react-app) and use [Semantin UI](https://semantic-ui.com/) for styling.
- 
- ## Pure React
- ##### The projects below were writen just with react:
- 1. [Comments Aplication](https://github.com/AAMergulhao/React/tree/master/comments)
- 2. [Season Aplication](https://github.com/AAMergulhao/React/tree/master/seasons)
- 3. [Image Search Aplication](https://github.com/AAMergulhao/React/tree/master/pics)
- 4. [Video Search Aplication](https://github.com/AAMergulhao/React/tree/master/vplayer)
- 
+This app use the [Youtube Data API](https://developers.google.com/youtube/v3/) to colletc videos and show those videos based on a search input from the user.
+
+On this project the concepts of props and state beggin to became more differentiated from one another.
